@@ -41,3 +41,5 @@
 *.dwo
 
 kernel/kernel.elf
+zzz.sh
+zzz
