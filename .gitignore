@@ -40,6 +40,8 @@
 # debug information files
 *.dwo
 
+.cache
+compile_commands.json
 kernel/kernel.elf
 zzz.sh
 zzz
