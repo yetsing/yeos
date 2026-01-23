@@ -43,5 +43,5 @@
 .cache
 compile_commands.json
 kernel/kernel.elf
-zzz.sh
+zzz*
 zzz
